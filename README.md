@@ -1,16 +1,12 @@
-### Hi there 👋
+[linkedin]: https://www.linkedin.com/in/vincenzors8
+[email]: vincenzo.russ8@outlook.com
+## Ciao a tutti, sono Vincenzo Russotto🖥
+---
+### Sono uno studente, gioco a scacchi e scrivo poesie🤞
+    🟧Sto studiando Python, base di dati e algoritmi di Machine Learning.
+    🟨In futuro vorrei approfondire la programmazione web e lo sviluppo di GUI. 
+### Ecco i miei contatti:
+---
+[<img align="left" alt="vincenzors8 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br />    
 
-<!--
-**Vincenz8/Vincenz8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+vincenzo.russ8@outlook.com
