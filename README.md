@@ -23,6 +23,6 @@
 
 <h3>🤝 &nbsp;Connect with Me </h3>
 
-<a href="https://www.linkedin.com/in/vincenzors8/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vincenzo%20Russotto-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/vincenzors8"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vincenzo%20Russotto-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:vincenzo.russ8@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-vincenzo.russ8@outlook.com-blue?style=flat-square&logo=microsoft"></a>
 </p>
