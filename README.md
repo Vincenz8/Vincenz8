@@ -6,10 +6,10 @@
 <h3>👨‍🦰 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Machine Learning and Artificial Intelligence at ITS Angelo Rizzoli.
-- 🤔 &nbsp; Playing chess.
-- 🌱 &nbsp; Reading Sci-fi books.
-- ✍️ &nbsp; Writing poetry.
-- 🎵 &nbsp; Listening Reggae Music
+- 🤔 &nbsp; Chess.
+- 🌱 &nbsp; Sci-fi books.
+- ✍️ &nbsp; Poetry.
+- 🎵 &nbsp; Reggae Music
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
