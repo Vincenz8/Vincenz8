@@ -25,3 +25,4 @@
 <a href="https://www.linkedin.com/in/vincenzors8"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vincenzo%20Russotto-BAABDA?style=flat&logo=linkedin&logoColor=BAABDA"></a>
 <a href="mailto:vincenzo.russ8@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-vincenzo.russ8@outlook.com-BAABDA?style=flat&logo=microsoft&logoColor=BAABDA"></a>
 <a href="https://medium.com/@vincenzors8"><img alt="Medium" src="https://img.shields.io/badge/Medium-vincenzors8-BAABDA?style=flat&logo=medium&logoColor=BAABDA"></a>
+<a href="https://www.kaggle.com/vincenzors8"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-vincenzors8-BAABDA?style=flat&logo=kaggle&logoColor=BAABDA"></a>
