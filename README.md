@@ -2,7 +2,7 @@
 
 <h3>👨‍🦰 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying Machine Learning and Artificial Intelligence at ITS Angelo Rizzoli
+- 🎓 &nbsp; Computer Science student at Università del Piemonte Orientale
 - 🤔 &nbsp; Chess
 - 🌱 &nbsp; Sci-fi books
 - ✍️ &nbsp; Poetry&Articles
