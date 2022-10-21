@@ -1,25 +1,39 @@
-# Hi, I'm Vincenzo Russotto
+<h1 align="center">Hi 🍃, I'm Vincenzo Russotto👨‍🦰</h1>
 
-<h3>👨‍🦰 &nbsp;About Me </h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/WxJLwDBAXDsW1fqZ3v/giphy.gif" width="600" height="300"/>
+</div>
 
-- 🎓 &nbsp; Computer Science student at Università del Piemonte Orientale
-- 🤔 &nbsp; Chess
-- 🌱 &nbsp; Sci-fi books
-- ✍️ &nbsp; Poetry&Articles
-- 🎵 &nbsp; Reggae Music
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3 align="center">A Computer Science Student from Italy🇮🇹</h3>
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=488FB1)
+<div align="center">
 
-<h3>🤝 &nbsp;Connect with Me </h3>
+ 🌱 I’m currently learning **PyTorch and C**
 
-<a href="https://www.linkedin.com/in/vincenzors8"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vincenzo%20Russotto-BAABDA?style=flat&logo=linkedin&logoColor=BAABDA"></a>
-<a href="mailto:vincenzo.russ8@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-vincenzo.russ8@outlook.com-BAABDA?style=flat&logo=microsoft&logoColor=BAABDA"></a>
-<a href="https://medium.com/@vincenzors8"><img alt="Medium" src="https://img.shields.io/badge/Medium-vincenzors8-BAABDA?style=flat&logo=medium&logoColor=BAABDA"></a>
-<a href="https://www.kaggle.com/vincenzors8"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-vincenzors8-BAABDA?style=flat&logo=kaggle&logoColor=BAABDA"></a>
+ 📝 I regularly write articles on [https://medium.com/@vincenzors8](https://medium.com/@vincenzors8)
+
+💬 Ask me about **Data Science, Programming and even Bonsai!!**
+
+ 📫 How to reach me **vincenzo.russ8@outlook.com**
+
+ ⚡ Fun fact **I have dreadlocks💥**
+
+</div>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/vincenzors8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vincenzors8" height="30" width="40" /></a>
+<a href="https://kaggle.com/vincenzors8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vincenzors8" height="30" width="40" /></a>
+<a href="https://medium.com/@vincenzors8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vincenzors8" height="30" width="40" /></a>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+</a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+</a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+</a> 
+</p>
+
