@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🍃, I'm Vincenzo Russotto👨‍🦰</h1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/WxJLwDBAXDsW1fqZ3v/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/WxJLwDBAXDsW1fqZ3v/giphy.gif" width="600" height="220"/>
 </div>
 
 <h3 align="center">A Computer Science Student from Italy🇮🇹</h3>
