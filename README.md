@@ -8,15 +8,15 @@
 
 <div align="center">
 
- 🌱 I’m currently learning **PyTorch and C**
+🌱 I’m currently learning **PyTorch and C**
 
- 📝 I regularly write articles on [https://medium.com/@vincenzors8](https://medium.com/@vincenzors8)
+📝 I regularly write articles on [https://medium.com/@vincenzors8](https://medium.com/@vincenzors8)
 
-💬 Ask me about **Data Science, Programming and even Bonsai!!**
+📖 I'm reading **The Immortal Game** by David Shenk
 
- 📫 How to reach me **vincenzo.russ8@outlook.com**
-
- ⚡ Fun fact **I have dreadlocks💥**
+⚡ Fun fact **I have dreadlocks💥**
+  
+📫 How to reach me **vincenzo.russ8@outlook.com**
 
 </div>
 <h3 align="center">Connect with me:</h3>
