@@ -12,7 +12,7 @@
 
 📝 I regularly write articles on [https://medium.com/@vincenzors8](https://medium.com/@vincenzors8)
 
-📖 I'm reading **The Immortal Game** by David Shenk
+📖 I'm reading **Mathematica** by David Bessis
 
 ⚡ Fun fact **I have dreadlocks💥**
   
