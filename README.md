@@ -8,13 +8,7 @@
 
 <div align="center">
 
-🌱 I’m currently learning **PyTorch and C**
-
-📝 I regularly write articles on [https://medium.com/@vincenzors8](https://medium.com/@vincenzors8)
-
-📖 I'm reading **Mathematica** by David Bessis
-
-⚡ Fun fact **I have dreadlocks💥**
+📝 I often write articles on [https://medium.com/@vincenzors8](https://medium.com/@vincenzors8)
   
 📫 How to reach me **vincenzo.russ8@outlook.com**
 
@@ -23,8 +17,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/vincenzors8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vincenzors8" height="30" width="40" /></a>
 <a href="https://kaggle.com/vincenzors8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vincenzors8" height="30" width="40" /></a>
-<a href="https://medium.com/@vincenzors8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vincenzors8" height="30" width="40" /></a>
-
+  
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
